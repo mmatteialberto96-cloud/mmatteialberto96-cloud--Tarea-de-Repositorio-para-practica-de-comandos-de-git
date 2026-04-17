@@ -1,0 +1,2 @@
+git add .
+git commit -m "Tercer commit: Se agregaron algoritmos del 6 al 10"
